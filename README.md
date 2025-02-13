@@ -38,7 +38,7 @@ This project leverages **YOLO** for detecting license plates and **PaddleOCR** f
    ```bash
    pip install opencv-python ultralytics paddlepaddle paddleocr numpy
 
-<h2> Contact </h2>
-[Linked-in](https://www.linkedin.com/in/mohamed-wasef-789743233/)
+## 📬 Contact  
+For any inquiries, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mohamed-wasef-789743233/)
 
 
