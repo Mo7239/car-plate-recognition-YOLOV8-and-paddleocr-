@@ -31,8 +31,6 @@ This project leverages **YOLO** for detecting license plates and **PaddleOCR** f
 - PaddleOCR performs OCR on the preprocessed image and extracts text.
 - The resulting text is overlaid on the video frame, and the video is saved with annotations.
 
-## 📸 Sample Output  
-[Insert sample annotated video screenshot or video link]  
 
 ## 🚀 How to Use  
 1. Clone the repository.  
